@@ -1,5 +1,4 @@
 alert('hello')
-
 $(function(){
 //Prevent the page jumping when the anchor is clicked with the event.preventDefault() function
 	$('a').on('click', function(a){
